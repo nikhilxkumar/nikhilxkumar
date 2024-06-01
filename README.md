@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **NumPy, pandas and SciKit learn**
 
-- 👨‍💻 All of my projects are available at [https://nikhilxkumar.github.io/](https://nikhilxkumar.github.io/)
+- 👨‍💻 All of my projects are available at [nikhilxkumar.github.io](https://nikhilxkumar.github.io/)
 
 - 📫 How to reach me **nikhilxkumar03@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UHttRp4iB-6i3YvomtGloAK9bRKja9ss/view](https://drive.google.com/file/d/1UHttRp4iB-6i3YvomtGloAK9bRKja9ss/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1UHttRp4iB-6i3YvomtGloAK9bRKja9ss/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
