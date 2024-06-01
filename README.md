@@ -2,7 +2,18 @@
 <h3 align="center">A passionate frontend developer and Machine Learning enthusiast living in Germany.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilxkumar&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilxkumar" /> </p>
+
+- 🔭 I’m currently working on **NumPy, pandas and SciKit learn**
+
+- 🌱 I’m currently learning **NumPy, pandas and SciKit learn**
+
+- 👨‍💻 All of my projects are available at [https://nikhilxkumar.github.io/](https://nikhilxkumar.github.io/)
+
+- 📫 How to reach me **nikhilxkumar03@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1UHttRp4iB-6i3YvomtGloAK9bRKja9ss/view](https://drive.google.com/file/d/1UHttRp4iB-6i3YvomtGloAK9bRKja9ss/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
