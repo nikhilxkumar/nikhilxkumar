@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1UHttRp4iB-6i3YvomtGloAK9bRKja9ss/view)
 
-<h3 align="left">Connect with me:</h3>
+<img src="https://raw.githubusercontent.com/nikhilxkumar/nikhilxkumar/output/github-contribution-grid-snake-dark.svg" />
 <p align="left">
 </p>
 
